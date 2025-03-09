@@ -16,11 +16,11 @@ Frontend: React (Vite), Tailwind CSS
 Backend: Node.js, Express.js  
 Database: MongoDB (Mongoose)    
 
-## Installation & Setup
- 1. Clone the repository
-git clone https://github.com/bhamareprati/FinanceManager.git
+## Installation & Setup 
 
-cd personal-finance-manager
+1. Clone the repository
+git clone https://github.com/bhamareprati/FinanceManager.git
+cd FinanceManager
 
 2.Setup backend
 cd server
